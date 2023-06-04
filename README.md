@@ -13,6 +13,7 @@ My repository meant for tracking my learning
 - Opened up typescriptlang.org (04.06.2023 at 14:51)
 - Started reading Typescript for the new programmer (04.06.2023 at 14.55)
 - Started reading Typescript for Javascript programmers (04.06.2023 at 15.23)
+- Started reading Typescript Handbook ch "The TypeScript Handbook" (04.06.2023 at 21.00)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
