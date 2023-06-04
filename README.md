@@ -32,6 +32,10 @@ My repository meant for tracking my learning
 - [ ] create a conforming const
 - [ ] explore https://www.typescriptlang.org/play#show-examples
 
+## Lessons Learned: TS Book ch 1
+- the structure of the book
+- [ ] ch the basics
+
 # Java
 - [ ] Read documentation while trying out every feature
 - [ ] Advent of code tasks (atleast up to day 11)
