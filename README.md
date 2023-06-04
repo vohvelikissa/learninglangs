@@ -17,6 +17,7 @@ My repository meant for tracking my learning
 - [ ] Own project
 
 ## Lessons Learned: Typescript for the new programmer
+- this article had a preview of the basic syntax of typescript. I am excited to learn more
 
 # Java
 - [ ] Read documentation while trying out every feature
