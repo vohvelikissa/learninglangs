@@ -14,6 +14,7 @@ My repository meant for tracking my learning
 - Started reading Typescript for the new programmer (04.06.2023 at 14.55)
 - Started reading Typescript for Javascript programmers (04.06.2023 at 15.23)
 - Started reading Typescript Handbook ch "The TypeScript Handbook" (04.06.2023 at 21.00)
+- Started reading Typescript Handbook ch "The Basics" (04.06.2023 at 21.33)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
@@ -34,7 +35,12 @@ My repository meant for tracking my learning
 
 ## Lessons Learned: TS Book ch 1
 - the structure of the book
-- [ ] ch the basics
+- [X] ch the basics
+
+## Lessons Learned: TS Book ch 2
+- [ ] use NotImplicitAny
+- [ ] use strictNullChecks
+- [ ] function calls to classes
 
 # Java
 - [ ] Read documentation while trying out every feature
