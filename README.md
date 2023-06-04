@@ -18,6 +18,10 @@ My repository meant for tracking my learning
 
 ## Lessons Learned: Typescript for the new programmer
 - this article had a preview of the basic syntax of typescript. I am excited to learn more
+- [ ] https://developer.microsoft.com/javascript/
+- [ ] https://developer.mozilla.org/docs/Web/JavaScript/Guide
+- [ ] https://www.typescriptlang.org/docs/handbook/intro.html
+- [ ] https://www.typescriptlang.org/play#show-examples
 
 # Java
 - [ ] Read documentation while trying out every feature
