@@ -25,6 +25,11 @@ My repository meant for tracking my learning
 - [ ] https://www.typescriptlang.org/play#show-examples
 
 ## Lessons Learned: Typescript for Javascript programmers
+- [ ] create an interface
+- [ ] create a class
+- [ ] create a function
+- [ ] create a conforming const
+- [ ] explore https://www.typescriptlang.org/play#show-examples
 
 # Java
 - [ ] Read documentation while trying out every feature
