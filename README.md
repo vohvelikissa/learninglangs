@@ -12,6 +12,7 @@ My repository meant for tracking my learning
 - [ ] Read documentation while trying out every feature
 - Opened up typescriptlang.org (04.06.2023 at 14:51)
 - Started reading Typescript for the new programmer (04.06.2023 at 14.55)
+- Started reading Typescript for Javascript programmers (04.06.2023 at 15.23)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
@@ -22,6 +23,8 @@ My repository meant for tracking my learning
 - [ ] https://developer.mozilla.org/docs/Web/JavaScript/Guide
 - [ ] https://www.typescriptlang.org/docs/handbook/intro.html
 - [ ] https://www.typescriptlang.org/play#show-examples
+
+## Lessons Learned: Typescript for Javascript programmers
 
 # Java
 - [ ] Read documentation while trying out every feature
