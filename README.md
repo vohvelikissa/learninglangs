@@ -16,6 +16,7 @@ My repository meant for tracking my learning
 - Started reading Typescript Handbook ch "The TypeScript Handbook" (04.06.2023 at 21.00)
 - Started reading Typescript Handbook ch "The Basics" (04.06.2023 at 21.33)
 - Started reading Typescript Handbook ch "Everyday Types" (05.06.2023 at 13.07)
+- Started reading Typescript Handbook ch "Narrowing" (05.06.2023 at 14.57)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
