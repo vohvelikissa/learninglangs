@@ -58,6 +58,17 @@ My repository meant for tracking my learning
 - [ ] enum
 - [ ] bigint
 
+## Lessons Learned: TS Book ch 4
+- typeof guards
+- [ ] "string"
+- [ ] "number"
+- [ ] "bigint"
+- [ ] "boolean"
+- [ ] "symbol"
+- [ ] "undefined"
+- [ ] "object"
+- [ ] "function"
+
 # Java
 - [ ] Read documentation while trying out every feature
 - [ ] Advent of code tasks (atleast up to day 11)
