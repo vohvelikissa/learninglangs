@@ -15,6 +15,7 @@ My repository meant for tracking my learning
 - Started reading Typescript for Javascript programmers (04.06.2023 at 15.23)
 - Started reading Typescript Handbook ch "The TypeScript Handbook" (04.06.2023 at 21.00)
 - Started reading Typescript Handbook ch "The Basics" (04.06.2023 at 21.33)
+- Started reading Typescript Handbook ch "Everyday Types" (05.06.2023 at 13.07)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
@@ -41,6 +42,20 @@ My repository meant for tracking my learning
 - [ ] use NotImplicitAny
 - [ ] use strictNullChecks
 - [ ] function calls to classes
+
+## Lessons Learned: TS Book ch 3
+- [ ] string
+- [ ] number
+- [ ] boolean
+- [ ] any[]
+- [ ] string[]
+- [ ] number[]
+- [ ] noImplicitAny
+- [ ] union type
+- [ ] type assertion
+- [ ] null & undefined
+- [ ] enum
+- [ ] bigint
 
 # Java
 - [ ] Read documentation while trying out every feature
