@@ -17,6 +17,7 @@ My repository meant for tracking my learning
 - Started reading Typescript Handbook ch "The Basics" (04.06.2023 at 21.33)
 - Started reading Typescript Handbook ch "Everyday Types" (05.06.2023 at 13.07)
 - Started reading Typescript Handbook ch "Narrowing" (05.06.2023 at 14.57)
+- Started reading Typescript Handbook ch "More on Functions" (05.06.2023 at 15.31)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
@@ -68,6 +69,9 @@ My repository meant for tracking my learning
 - [ ] "undefined"
 - [ ] "object"
 - [ ] "function"
+
+## Lessons Learned: TS Book ch 5
+- [ ] arrow functions
 
 # Java
 - [ ] Read documentation while trying out every feature
