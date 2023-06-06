@@ -81,7 +81,8 @@ My repository meant for tracking my learning
 - [ ] index signature
 
 ## Lessons Learned: TS Book ch 8
-- [ ]
+- [ ] return any
+- [ ] return Type
 
 # Java
 - [ ] Read documentation while trying out every feature
