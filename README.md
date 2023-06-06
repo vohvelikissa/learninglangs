@@ -72,18 +72,42 @@ function sgjpewr() {
 - [X] function calls to classes
 
 ## Lessons Learned: TS Book ch 3
-- [ ] string
-- [ ] number
-- [ ] boolean
-- [ ] any[]
-- [ ] string[]
-- [ ] number[]
-- [ ] noImplicitAny
-- [ ] union type
-- [ ] type assertion
-- [ ] null & undefined
-- [ ] enum
-- [ ] bigint
+- [X] string
+```
+let x: string = "";
+```
+- [X] number
+```
+let x: number = 1;
+```
+- [X] boolean
+```
+let x = true
+```
+- [X] any[]
+```
+let x: [] = []
+```
+- [X] string[]
+```
+let x: [string] = [""]
+```
+- [X] number[]
+```
+let x: [number] = [1]
+```
+- [X] noImplicitAny
+```
+let x = ""
+```
+- [X] union type
+```
+let x: number | string
+```
+- [X] type assertion
+- [X] null & undefined
+- [X] enum
+- [X] bigint
 
 ## Lessons Learned: TS Book ch 4
 - typeof guards
