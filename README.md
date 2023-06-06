@@ -24,6 +24,7 @@ My repository meant for tracking my learning
 - Started reading Typescript Handbook ch "Keyof Type Operator" (06.06.2023 at 12.42)
 - Started reading Typescript Handbook ch "Typeof Type Operator" (06.06.2023 at 12.49)
 - Started reading Typescript Handbook ch "Indexed Access Types" (06.06.2023 at 12.55)
+- Started reading Typescript Handbook ch "Conditional Types" (06.06.2023 at 13.01)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
