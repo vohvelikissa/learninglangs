@@ -121,7 +121,7 @@ let x: number | string
 - [X] "function"
 
 ## Lessons Learned: TS Book ch 5
-- [ ] arrow functions
+- [X] arrow functions
 ```
 let z = (xd: string): string => {
   return ""
