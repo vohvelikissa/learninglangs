@@ -9,7 +9,7 @@ My repository meant for tracking my learning
 - [ ] Rust
 
 # Typescript
-- [ ] Read documentation while trying out every feature
+- [X] Read documentation while trying out every feature
 - Opened up typescriptlang.org (04.06.2023 at 14:51)
 - Started reading Typescript for the new programmer (04.06.2023 at 14.55)
 - Started reading Typescript for Javascript programmers (04.06.2023 at 15.23)
