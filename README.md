@@ -111,14 +111,14 @@ let x: number | string
 
 ## Lessons Learned: TS Book ch 4
 - typeof guards
-- [ ] "string"
-- [ ] "number"
-- [ ] "bigint"
-- [ ] "boolean"
-- [ ] "symbol"
-- [ ] "undefined"
-- [ ] "object"
-- [ ] "function"
+- [X] "string"
+- [X] "number"
+- [X] "bigint"
+- [X] "boolean"
+- [X] "symbol"
+- [X] "undefined"
+- [X] "object"
+- [X] "function"
 
 ## Lessons Learned: TS Book ch 5
 - [ ] arrow functions
