@@ -44,17 +44,22 @@ My repository meant for tracking my learning
 - [X] create an interface
 ```
 interface Foo {
-  let abc: string;
-  let cba: number;
+  abc: string;
+  cba: number;
 }
 ```
 - [X] create a class
 ```
 class Luokka {
 ```
-- [ ] create a function
-- [ ] create a conforming const
-- [ ] explore https://www.typescriptlang.org/play#show-examples
+- [X] create a function
+```
+function sgjpewr() {
+  //put something here
+}
+```
+- [X] create a conforming const
+- [X] explore https://www.typescriptlang.org/play#show-examples
 
 ## Lessons Learned: TS Book ch 1
 - the structure of the book
