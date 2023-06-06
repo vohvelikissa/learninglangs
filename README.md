@@ -27,6 +27,7 @@ My repository meant for tracking my learning
 - Started reading Typescript Handbook ch "Conditional Types" (06.06.2023 at 13.01)
 - Started reading Typescript Handbook ch "Mapped Types" (06.06.2023 at 13.08)
 - Started reading Typescript Handbook ch "Template Literal Types" (06.06.2023 at 13.12)
+- Started reading Typescript Handbook ch "Classes" (06.06.2023 at 13.42)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
