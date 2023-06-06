@@ -122,6 +122,11 @@ let x: number | string
 
 ## Lessons Learned: TS Book ch 5
 - [ ] arrow functions
+```
+let z = (xd: string): string => {
+  return ""
+}
+```
 
 ## Lessons Learned: TS Book ch 6 
 - [ ] readonly property
