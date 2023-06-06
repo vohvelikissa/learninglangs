@@ -97,6 +97,9 @@ My repository meant for tracking my learning
 ## Lessons Learned: TS Book ch 11
 - [ ] type operator
 
+## Lessons Learned: TS Book ch 12
+- [ ] conditional type
+
 # Java
 - [ ] Read documentation while trying out every feature
 - [ ] Advent of code tasks (atleast up to day 11)
