@@ -74,6 +74,11 @@ My repository meant for tracking my learning
 ## Lessons Learned: TS Book ch 5
 - [ ] arrow functions
 
+## Lessons Learned: TS Book ch 6 
+- [ ] readonly property
+- [ ] index signature
+
+
 # Java
 - [ ] Read documentation while trying out every feature
 - [ ] Advent of code tasks (atleast up to day 11)
