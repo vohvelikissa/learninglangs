@@ -20,6 +20,7 @@ My repository meant for tracking my learning
 - Started reading Typescript Handbook ch "More on Functions" (05.06.2023 at 15.31)
 - Started reading Typescript Handbook ch "Object Types" (05.06.2023 at 23.01)
 - Started reading Typescript Handbook ch "Creating Types from Types" (06.06.2023 at 12.31)
+- Started reading Typescript Handbook ch "Generics" (06.06.2023 at 12.37)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
@@ -79,6 +80,8 @@ My repository meant for tracking my learning
 - [ ] readonly property
 - [ ] index signature
 
+## Lessons Learned: TS Book ch 8
+- [ ]
 
 # Java
 - [ ] Read documentation while trying out every feature
