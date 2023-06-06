@@ -112,6 +112,17 @@ My repository meant for tracking my learning
 - [ ] Capitalize
 - [ ] Uncapitalize
 
+## Lessons Learned: TS Book ch 15
+- [ ] constructor
+- [ ] getters and setters
+- [ ] implements
+- [ ] extends
+- [ ] public
+- [ ] protected
+- [ ] private
+- [ ] static
+- [ ] abstract
+
 # Java
 - [ ] Read documentation while trying out every feature
 - [ ] Advent of code tasks (atleast up to day 11)
