@@ -41,8 +41,17 @@ My repository meant for tracking my learning
 - [ ] https://www.typescriptlang.org/play#show-examples
 
 ## Lessons Learned: Typescript for Javascript programmers
-- [ ] create an interface
-- [ ] create a class
+- [X] create an interface
+```
+interface Foo {
+  let abc: string;
+  let cba: number;
+}
+```
+- [X] create a class
+```
+class Luokka {
+```
 - [ ] create a function
 - [ ] create a conforming const
 - [ ] explore https://www.typescriptlang.org/play#show-examples
