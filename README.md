@@ -66,9 +66,10 @@ function sgjpewr() {
 - [X] ch the basics
 
 ## Lessons Learned: TS Book ch 2
-- [ ] use NotImplicitAny
-- [ ] use strictNullChecks
-- [ ] function calls to classes
+- [X] use NotImplicitAny
+- when you don't specify a type, the return type is not implicit
+- [X] use strictNullCheck
+- [X] function calls to classes
 
 ## Lessons Learned: TS Book ch 3
 - [ ] string
