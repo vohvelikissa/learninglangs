@@ -23,6 +23,7 @@ My repository meant for tracking my learning
 - Started reading Typescript Handbook ch "Generics" (06.06.2023 at 12.37)
 - Started reading Typescript Handbook ch "Keyof Type Operator" (06.06.2023 at 12.42)
 - Started reading Typescript Handbook ch "Typeof Type Operator" (06.06.2023 at 12.49)
+- Started reading Typescript Handbook ch "Indexed Access Types" (06.06.2023 at 12.55)
 - [ ] Advent of code tasks (atleast up to day 11)
 - [ ] Build a WSChat
 - [ ] Own project
@@ -91,6 +92,9 @@ My repository meant for tracking my learning
 
 ## Lessons Learned: TS Book ch 10
 - [ ] typeof type operator
+
+## Lessons Learned: TS Book ch 11
+- [ ] type operator
 
 # Java
 - [ ] Read documentation while trying out every feature
