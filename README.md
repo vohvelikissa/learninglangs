@@ -143,36 +143,43 @@ readonly x[0]
 - [X] return Type
 
 ## Lessons Learned: TS Book ch 9
-- [ ] keyof type operator
+- [X] keyof type operator
+```
+let xz: string = "AAAAA"
+type xy = keyof typeof xz
+```
 
 ## Lessons Learned: TS Book ch 10
-- [ ] typeof type operator
+- [X] typeof type operator
+```
+let x = typeof "AAA"
+```
 
 ## Lessons Learned: TS Book ch 11
-- [ ] type operator
+- [X] type operator
 
 ## Lessons Learned: TS Book ch 12
-- [ ] conditional type
+- [X] conditional type
 
 ## Lessons Learned: TS Book ch 13
-- [ ] mapped types
+- [X] mapped types
 
 ## Lessons Learned: TS Book ch 14
-- [ ] Uppercase
-- [ ] Lowercase
-- [ ] Capitalize
-- [ ] Uncapitalize
+- [X] Uppercase
+- [X] Lowercase
+- [X] Capitalize
+- [X] Uncapitalize
 
 ## Lessons Learned: TS Book ch 15
-- [ ] constructor
-- [ ] getters and setters
-- [ ] implements
-- [ ] extends
-- [ ] public
-- [ ] protected
-- [ ] private
-- [ ] static
-- [ ] abstract
+- [X] constructor
+- [X] getters and setters
+- [X] implements
+- [X] extends
+- [X] public
+- [X] protected
+- [X] private
+- [X] static
+- [X] abstract
 
 # Java
 - [ ] Read documentation while trying out every feature
