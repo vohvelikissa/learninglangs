@@ -34,6 +34,11 @@ My repository meant for tracking my learning
 - [ ] Build a WSChat
 - [ ] Own project
 
+## NPM and Node
+- [ ] install npm
+- [ ] install node.js
+- [ ] check the most used npm packages
+
 ## TS Advent of code
 - [ ] day 1
 - [ ] day 2 
