@@ -130,7 +130,13 @@ let z = (xd: string): string => {
 
 ## Lessons Learned: TS Book ch 6 
 - [ ] readonly property
+```
+readonly x: string;
+```
 - [ ] index signature
+```
+readonly x[0]
+```
 
 ## Lessons Learned: TS Book ch 8
 - [ ] return any
