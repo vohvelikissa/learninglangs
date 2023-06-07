@@ -139,8 +139,8 @@ readonly x[0]
 ```
 
 ## Lessons Learned: TS Book ch 8
-- [ ] return any
-- [ ] return Type
+- [X] return any
+- [X] return Type
 
 ## Lessons Learned: TS Book ch 9
 - [ ] keyof type operator
