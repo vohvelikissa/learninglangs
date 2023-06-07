@@ -30,8 +30,22 @@ My repository meant for tracking my learning
 - Started reading Typescript Handbook ch "Classes" (06.06.2023 at 13.42)
 - Started reading Typescript Handbook ch "Modules" (06.06.2023 at 22.18)
 - [ ] Advent of code tasks (atleast up to day 11)
+- made a list of checkboxes for individual days to the bottom
 - [ ] Build a WSChat
 - [ ] Own project
+
+## TS Advent of code
+- [ ] day 1
+- [ ] day 2 
+- [ ] day 3
+- [ ] day 4
+- [ ] day 5
+- [ ] day 6
+- [ ] day 7
+- [ ] day 8
+- [ ] day 9
+- [ ] day 10
+- [ ] day 11
 
 ## Lessons Learned: Typescript for the new programmer
 - this article had a preview of the basic syntax of typescript. I am excited to learn more
