@@ -41,6 +41,7 @@ My repository meant for tracking my learning
 
 ## TS Advent of code
 - [ ] day 1
+- Read the assignment and get the list (08.06.2023 at 18.22)
 - [ ] day 2 
 - [ ] day 3
 - [ ] day 4
