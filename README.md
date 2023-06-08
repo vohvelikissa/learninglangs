@@ -35,8 +35,8 @@ My repository meant for tracking my learning
 - [ ] Own project
 
 ## NPM and Node
-- [ ] install npm
-- [ ] install node.js
+- [X] install npm
+- [X] install node.js
 - [ ] check the most used npm packages
 
 ## TS Advent of code
