@@ -1,6 +1,8 @@
 # learninglangs
 My repository meant for tracking my learning
 
+this repo is redundant now because I use my vohvelikissa.github.io for the same thing. This will more than likely be archived
+
 # Languages (and frameworks and such) that I want to learn
 - [ ] Typescript
 - [ ] Java
